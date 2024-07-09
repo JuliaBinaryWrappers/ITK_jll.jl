@@ -7,7 +7,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "8f63aa48a7fb5d72aa1c8e0d7c44aa942b4225191eceb73891554222cae1f560"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[ITK]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -17,7 +17,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "54d0c64a0cc519b5113b040b0e0b3fe682f672da93b088c550388878d1c70d4a"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[ITK]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -27,7 +27,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "ceaf8b8981d421bdc9e5bde7ec4d8dc7823c8528224634164e68070c53c67e1a"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.aarch64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.aarch64-linux-musl-cxx03.tar.gz"
 [[ITK]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -37,7 +37,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "b7b885072eb8ed7cfaedba59abdfccf347eb852d7145722c5538da4779f04e9f"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.aarch64-linux-musl-cxx11.tar.gz"
 [[ITK]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -48,7 +48,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "a58bf1da7159a106b4a31b83f5c6dea98c63a78735b9c718db31268b3ac71db4"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[ITK]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -59,7 +59,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "7f5a13338a19110976c6f8d0d68393f1f8b6ba5690ebec187beabcc05ce7bcd6"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[ITK]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -70,7 +70,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "91961b4c11b7179d964929c8e5f88fc51737c06b87d5328d6c642d488fde1124"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[ITK]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -81,7 +81,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "e42a9f549fb06d87af412c43f3f9add2b0bee5b105a72792c6529caafba41776"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[ITK]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -92,7 +92,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "831353558da9bf886cfb548117099d58ca53ebc0ec4d5c008911066697b64bfd"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[ITK]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -103,7 +103,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "680378ba703af624bf37218f5b7f93f36c2760189481d0f30905dee2924d1801"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[ITK]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -114,7 +114,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "02859ff9c7a2070fe712eb3388b39de832a8b5b5ef670d0a319fa96916319346"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[ITK]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -125,7 +125,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "8f698dcf606a5847fba6558f486e13e4aafadb377e9b608efbe862ee4f50b97e"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[ITK]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -135,7 +135,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "18a4d9d251f853d53c81854fee66cf4b85e9c1f114fea19b98e84c5405ab8793"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[ITK]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -145,7 +145,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "b39a3da533c5a163475901efa5c76d8a940460e0ed7a1e1ed401e5afe2437a36"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[ITK]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -155,7 +155,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "91ef29587fceddf22b28bba9bbf334eb3862811b78b5c2bd5e446b819d3ccec9"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[ITK]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -165,7 +165,7 @@ os = "linux"
 
     [[ITK.download]]
     sha256 = "887e9b169447aae1add871eb8cd7be4cff206161b650dd9824cda87478a7e7c4"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[ITK]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -174,7 +174,7 @@ os = "windows"
 
     [[ITK.download]]
     sha256 = "387ca6f08124fabe290a3053592d7d4acc46b86e0ffd48074f66007e149ab10a"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[ITK]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -183,4 +183,4 @@ os = "windows"
 
     [[ITK.download]]
     sha256 = "3bd905d61e8dbfaf92d51a8e4e7ed5a9e66f8b54f147130e3645afe585c938f3"
-    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+0/ITK.v5.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ITK_jll.jl/releases/download/ITK-v5.3.0+1/ITK.v5.3.0.x86_64-w64-mingw32-cxx11.tar.gz"

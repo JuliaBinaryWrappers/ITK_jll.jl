@@ -1,6 +1,6 @@
 name = "ITK_jll"
 uuid = "3324d3a8-621a-5aaa-97fa-c3bc8dfc0481"
-version = "5.3.0+0"
+version = "5.3.0+1"
 
 [deps]
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
