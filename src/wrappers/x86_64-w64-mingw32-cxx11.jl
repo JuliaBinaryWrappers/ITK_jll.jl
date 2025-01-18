@@ -7,7 +7,6 @@ using HDF5_jll
 using JpegTurbo_jll
 using Libtiff_jll
 using libpng_jll
-using Eigen_jll
 using Zlib_jll
 JLLWrappers.@generate_wrapper_header("ITK")
 JLLWrappers.@declare_library_product(libITKBiasCorrection, "libITKBiasCorrection-5.3.dll")
@@ -104,7 +103,7 @@ JLLWrappers.@declare_library_product(libitkvcl, "libitkvcl-5.3.dll")
 JLLWrappers.@declare_library_product(libitkvnl, "libitkvnl-5.3.dll")
 JLLWrappers.@declare_library_product(libitkvnl_algo, "libitkvnl_algo-5.3.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(Expat_jll, FFTW_jll, HDF5_jll, JpegTurbo_jll, Libtiff_jll, libpng_jll, Eigen_jll, Zlib_jll)
+    JLLWrappers.@generate_init_header(Expat_jll, FFTW_jll, HDF5_jll, JpegTurbo_jll, Libtiff_jll, libpng_jll, Zlib_jll)
     JLLWrappers.@init_library_product(
         libITKBiasCorrection,
         "bin\\libITKBiasCorrection-5.3.dll",
